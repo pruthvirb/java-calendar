@@ -7,6 +7,10 @@ import edu.avans.library.presentation.MainFrame;
  * @author Bram de Hart
  * @version 1.0
  */
+
+/**
+ * testing
+ */
 public class Main {
     /**
      * Defaults constructor. Inits the main frame
