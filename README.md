@@ -4,6 +4,7 @@
 An SQL-import is required before using the application. See attached SQL-file.
 ## testing 
 ## Navigation
+###
 Navigation between different monthpanels can be done in two ways:
 * Entering a date in the toppanel
 * Using the navigation buttons (previous / current / next month)
