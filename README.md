@@ -1,6 +1,6 @@
 ####### Java Calendar made with the Swing GUI toolkit
 ######3##
-## Installation
+###### Installation
 An SQL-import is required before using the application. See attached SQL-file.
 ## testing 
 ## Navigation
